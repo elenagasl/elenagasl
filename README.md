@@ -47,6 +47,17 @@ My goal is to **fully integrate AI with biomedical and clinical applications**, 
 
 ---
 
+## 📱 Personal Full-Stack Development Project
+
+In parallel with my academic training, I am independently developing a **personal full-stack application** to gain end-to-end development experience.
+
+The project is built using:
+- **React Native** for cross-platform mobile development
+- **Python (FastAPI)** for backend services and API design
+
+This work allows me to apply principles of **software architecture, API design, and data handling**. The project is developed autonomously.
+
+
 ## 🎯 What drives me
 
 I’m motivated by **impactful, interdisciplinary projects** that combine:
