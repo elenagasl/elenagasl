@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Elena
+# Hi, I'm Elena
 
 Biotechnology graduate specialized in **Computational Biotechnology / Bioinformatics**, building a **truly hybrid profile at the intersection of Life Sciences, Computer Science, and Artificial Intelligence**.
 
 ---
 
-## 🧬 My background
+## My background
 
 My academic path started in Biotechnology, where I quickly realized that **data, modelling, and computation** were the tools I wanted to use to make an impact in healthcare.
 
@@ -14,13 +14,13 @@ Although my degree provided a stronger biological foundation (~70% biology, ~30%
 
 ---
 
-## 📐 Mathematics & Modelling
+## Mathematics & Modelling
 
 Over the past year, I worked in the **Applied Mathematics Department**, where I gained solid theoretical foundations and completed my **Bachelor’s Thesis in mathematical modelling**, applying differential equations and computational methods to biological systems.
 
 ---
 
-## 💻 Computer Science & Low-level Programming
+## Computer Science & Low-level Programming
 
 To strengthen my core computer science skills beyond bio-oriented programming, I joined the **42 programming campus (Fundación Telefónica)**.
 
@@ -35,7 +35,7 @@ This experience has been key to developing a **rigorous engineering mindset**.
 
 ---
 
-## 🤖 AI & Machine Learning for Health
+## AI & Machine Learning for Health
 
 I am currently pursuing a **Master’s in Machine Learning for Health**, focusing on:
 - Machine Learning & Deep Learning
@@ -47,7 +47,7 @@ My goal is to **fully integrate AI with biomedical and clinical applications**, 
 
 ---
 
-## 📱 Personal Full-Stack Development Project
+## Personal Full-Stack Development Project
 
 In parallel with my academic training, I am independently developing a **personal full-stack application** to gain end-to-end development experience.
 
@@ -58,7 +58,7 @@ The project is built using:
 This work allows me to apply principles of **software architecture, API design, and data handling**. The project is developed autonomously.
 
 
-## 🎯 What drives me
+## What drives me
 
 I’m motivated by **impactful, interdisciplinary projects** that combine:
 - Biotechnology
@@ -70,7 +70,7 @@ to advance **healthcare, early diagnosis, and digital transformation**.
 
 ---
 
-## 🌱 Core values
+## Core values
 
 - Initiative and curiosity
 - Creativity and critical thinking
